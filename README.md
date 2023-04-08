@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - My interest is in Web Development.
 
 ---
-<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-yeoj1092.vercel.app
+  <img align="left" alt="yeoj1092 GitHub Stats" src="github-readme-stats-yeoj1092.vercel.app
 /api?username=yeoj1092&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 ---
