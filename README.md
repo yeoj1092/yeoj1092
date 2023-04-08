@@ -4,6 +4,7 @@
 <div align = "center">
   👋 Hi, Im Jameson 
   <div>
+    
 ---
     
 - I enjoy exploring and experimenting with different coding languages.
