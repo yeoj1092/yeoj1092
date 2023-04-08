@@ -51,5 +51,5 @@ Tools:
 </div>
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoj1092&layout=compact)](https://github.com/yeoj1092/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeoj1092&repo=github-readme-stats)](https://github.com/yeoj1092/github-readme-stats)
