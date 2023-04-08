@@ -51,8 +51,7 @@ Tools:
 </div>
 
 ---
-[![yeoj1092 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yeoj1092&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yeoj1092/github-readme-stats#gh-dark-mode-only)
-[![yeoj1092 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yeoj1092&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yeoj1092/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoj1092&layout=compact&langs_count=6)](https://github.com/yeoj1092/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoj1092&layout=compact&langs_count=6)](https://github.com/yeoj1092/github-readme-stats#gh-light-mode-only)
+![](https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
