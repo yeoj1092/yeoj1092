@@ -13,9 +13,10 @@
 - Open to collaboration and excited to work on new projects with other programmers.
 
 ---
-
-<div align = "center">
-:hammer_and_wrench: 
+<h2 algin = "center">
+  :hammer_and_wrench: technical skills
+ </h2>
+<div align = "center"> 
   Languages:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
@@ -60,9 +61,9 @@ Tools:
 </div>
 
 ---
-<div align="center">
+<h2 align="center">
 📈 My GitHub Stats
-</div>
+</h2>
 <br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-dark-mode-only">
@@ -70,9 +71,9 @@ Tools:
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-light-mode-only">
 </div>
-<div align="center">
+<h2 align="center">
  📫 Contact  
-  </div>
+  </h2>
   <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/Jameson-Yeo/" target="_blank">
