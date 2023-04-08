@@ -65,6 +65,9 @@ Tools:
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-light-mode-only">
 </div>
-
+<div align="center">
  ### 📫 Contact  
+</div>
+<div align="center">
  [![Linkedin Badge](https://img.shields.io/badge/-Jameson_Yeo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Jameson-Yeo/)
+</div>
