@@ -4,8 +4,10 @@
 
 ## 👋 Hi, my name Is Jameson Yeo, I am studying Computer Science with a major in Software Development
 
-- I greatly enjoy writing meaningful code that can provide value to the user.
-- My interest is in Web Development.
+- I enjoy exploring and experimenting with different coding languages.
+- I enjoy staying up-to-date with the latest developments in the tech industry.
+- Creating and developing unique solutions to problems.
+- Open to collaboration and excited to work on new projects with other programmers.
 
 ---
 
