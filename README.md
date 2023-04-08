@@ -49,3 +49,7 @@ Tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
 </div>
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeoj1092&repo=github-readme-stats)](https://github.com/yeoj1092/github-readme-stats)
