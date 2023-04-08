@@ -5,6 +5,7 @@
   👋 Hi, Im Jameson 
   <div>
 ---
+    
 - I enjoy exploring and experimenting with different coding languages.
 - I enjoy staying up-to-date with the latest developments in the tech industry.
 - Creating and developing unique solutions to problems.
