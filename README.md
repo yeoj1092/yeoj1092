@@ -1,8 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
-## 👋 Hi, Im Jameson 
+<div align = "center">
+  👋 Hi, Im Jameson 
+  <div>
+---
 - I enjoy exploring and experimenting with different coding languages.
 - I enjoy staying up-to-date with the latest developments in the tech industry.
 - Creating and developing unique solutions to problems.
