@@ -10,7 +10,7 @@
 ---
 
 ### :hammer_and_wrench: 
-<div align"center">
+<div align = "center">
 Languages:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
