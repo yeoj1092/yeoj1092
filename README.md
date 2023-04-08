@@ -51,5 +51,8 @@ Tools:
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoj1092&layout=compact&langs_count=8)](https://github.com/yeoj1092/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yeoj1092&repo=github-readme-stats)](https://github.com/yeoj1092/github-readme-stats)
+[![yeoj1092 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yeoj1092&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/yeoj1092/github-readme-stats#gh-dark-mode-only)
+[![yeoj1092 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=yeoj1092&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/yeoj1092/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoj1092&layout=compact&langs_count=6)](https://github.com/yeoj1092/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeoj1092&layout=compact&langs_count=6)](https://github.com/yeoj1092/github-readme-stats#gh-light-mode-only)
