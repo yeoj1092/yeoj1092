@@ -22,5 +22,7 @@ Here are some ideas to get you started:
 - My interest is in Web Development.
 
 ---
-![](https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="github-readme-stats-theta-six-94.vercel.app/api?username=yeoj1092&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 ---
