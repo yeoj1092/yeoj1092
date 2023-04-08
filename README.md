@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 
   <img align="left" alt="yeoj1092 GitHub Stats" src="github-readme-stats-yeoj1092.vercel.app
 /api?username=yeoj1092&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+[![My Github Stats](https://github-readme-stats-yeoj1092.vercel.app/api?username=yeoj1092)](https://github.com/yeoj1092/github-readme-stats)
 ---
