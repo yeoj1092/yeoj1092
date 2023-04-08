@@ -6,8 +6,6 @@
 
 - I greatly enjoy writing meaningful code that can provide value to the user.
 - My interest is in Web Development.
----
-
 
 ---
 
