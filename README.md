@@ -6,6 +6,8 @@
 
 - I greatly enjoy writing meaningful code that can provide value to the user.
 - My interest is in Web Development.
+---
+
 
 ---
 
@@ -53,8 +55,8 @@ Tools:
 </div>
 
 ---
-
 <div align="center">
+### 📈 My GitHub Stats 
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/overview.svg#gh-light-mode-only">
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-dark-mode-only">
