@@ -13,7 +13,7 @@
 - Open to collaboration and excited to work on new projects with other programmers.
 
 ---
-<h2 algin = "center">
+<h2 align = "center">
   :hammer_and_wrench: technical skills
  </h2>
 <div align = "center"> 
