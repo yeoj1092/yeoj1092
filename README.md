@@ -62,7 +62,7 @@ Tools:
 
 ---
 <h2 align="center">
-📈 My GitHub Stats
+##📈 My GitHub Stats
 </h2>
 <br>
 <div align="center">
