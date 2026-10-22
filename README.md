@@ -62,7 +62,7 @@ Tools:
 
 ---
 <h2 align="center">
-##📈 My GitHub Stats
+<!--📈 My GitHub Stats
 </h2>
 <br>
 <div align="center">
@@ -71,7 +71,7 @@ Tools:
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/yeoj1092/github-stats/master/generated/languages.svg#gh-light-mode-only">
 </div>
-<h2 align="center">
+<h2 align="center"> -->
  📫 Contact  
   </h2>
   <br>
