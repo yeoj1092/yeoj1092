@@ -7,12 +7,9 @@
     
 ---
 
-- I enjoy exploring and experimenting with different coding languages.
-- I enjoy staying up-to-date with the latest developments in the tech industry.
-- Creating and developing unique solutions to problems.
-- Open to collaboration and excited to work on new projects with other programmers.
+Software development graduate (AUT) looking for junior software developer roles. Experience 
+with React, Node.js, PHP and MySQL, plus building databases and supporting systems for staff.
 
----
 <h2 align = "center">
   :hammer_and_wrench: technical skills
  </h2>
