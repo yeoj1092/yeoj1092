@@ -4,9 +4,6 @@
 <h1 align = "center">
   👋 Hi, I'm Jameson 
   </h1>
-    
----
-
 Software development graduate (AUT) looking for junior software developer roles. Experience 
 with React, Node.js, PHP and MySQL, plus building databases and supporting systems for staff.
 
