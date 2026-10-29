@@ -10,6 +10,10 @@ with React, Node.js, PHP and MySQL, plus building databases and supporting syste
 <h2 align = "center">
   :hammer_and_wrench: technical skills
  </h2>
+ **Languages:** JavaScript, PHP, C, SQL
+**Databases:** MongoDB, MySQL, Firebase, MS Access
+**Web:** HTML, CSS, React, Material UI, Node.js, Express.js, Ajax
+**Tools:** Git/GitHub, Docker (basic)
 <div align = "center"> 
   Languages:
 <div>
